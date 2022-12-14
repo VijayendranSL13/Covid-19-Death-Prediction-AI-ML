@@ -1,5 +1,5 @@
 # Covid-19-Death-Prediction-AI-ML
-ABSTRACT
+## ABSTRACT
 
 Analyze Covid-19 data and visualize it using Plot library Express in Python. It deals 
 with creating dozens of bar charts, line graphs, bubble charts, scatter plots. The graph 
