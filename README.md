@@ -23,3 +23,23 @@ Project Developer : S.L.Vijayendran
 
 Guided By : Dr.S.Ramesh - Assist. Professor 
 (Krishnasamy College of Engineering and Technology – Anna University)
+
+
+## ## 📝 Project Description
+ Recent Covid-19 Pandemic has raised alarms over one of the most overlooked areas to focus: Healthcare
+Management. While healthcare management has various use cases for using data science, patient death is one critical parameter to observe and predict if one wants to improve the efficiency of the healthcare management in a hospital.
+
+ This parameter helps hospitals to identify patients of high LOS-risk (patients who will stay longer) at the time of Pandemic. Once identified, patients with high LOS risk can have their treatment plan optimized to minimize LOS and lower the chance of staff/visitor infection. Also, prior knowledge of LOS can aid in logistics such as room and bed allocation planning.
+ 
+ ## 💻 Tech Stack
+
+ - [Data Analysis with Python](https://en.wikipedia.org/wiki/Data_analysis)
+ - [IBM Cloud](https://en.wikipedia.org/wiki/IBM_Cloud)
+ - [IBM Watson](https://en.wikipedia.org/wiki/IBM_Watson)
+ - [IBM Cognos Analytics](https://en.wikipedia.org/wiki/IBM_Cognos_Analytics)
+
+## 🤝 Support
+
+For support, please reach out to us at email slvijayendran@gmail.com
+
+<cemter> ![Logo](https://media1.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif?cid=790b7611df04fcf78be01764e6121ed07c106223750aabd6&rid=giphy.gif&ct=g) </center>
