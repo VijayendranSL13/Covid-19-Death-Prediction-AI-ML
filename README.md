@@ -1,6 +1,6 @@
 # Covid-19-Death-Prediction-AI-ML
 
-![Logo](https://th.bing.com/th/id/OIP.4xR52D2Mha3pOW2Z6I5N8wHaHD?pid=ImgDet&rs=1)
+![Logo](https://scitechdaily.com/images/SARS-CoV-2-Animation.gif)
 
 ## ABSTRACT
 
