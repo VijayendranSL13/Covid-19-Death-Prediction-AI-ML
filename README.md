@@ -1,4 +1,7 @@
 # Covid-19-Death-Prediction-AI-ML
+
+![Logo](https://th.bing.com/th/id/OIP.4xR52D2Mha3pOW2Z6I5N8wHaHD?pid=ImgDet&rs=1)
+
 ## ABSTRACT
 
 Analyze Covid-19 data and visualize it using Plot library Express in Python. It deals 
