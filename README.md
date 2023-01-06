@@ -25,7 +25,7 @@ Guided By : Dr.S.Ramesh - Assist. Professor
 (Krishnasamy College of Engineering and Technology – Anna University)
 
 
-## ## 📝 Project Description
+## 📝 Project Description
  Recent Covid-19 Pandemic has raised alarms over one of the most overlooked areas to focus: Healthcare
 Management. While healthcare management has various use cases for using data science, patient death is one critical parameter to observe and predict if one wants to improve the efficiency of the healthcare management in a hospital.
 
